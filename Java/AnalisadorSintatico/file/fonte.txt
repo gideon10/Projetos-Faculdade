@@ -1,0 +1,23 @@
+    -12valor = 500;    && ##
+    valor1= 100;
+    valor2= 200;
+    valor3= valor1 + valor2;
+    if(valor3 == 300) t= valor3;
+    else t= 0;
+
+    i = 0;
+    while(i <= 10)
+        i= i + 1;
+    
+    $var--\\\ 
+    
+    if ( i != 10)
+        ok= i;
+    else
+        ok= &12.4;    
+    
+    x= (6^2/2) % 2;
+    if(x>0 and (o_k==12.4 or ok==i))
+        j= not (x>0);
+
+90908908909-=-=-=-=-;;;

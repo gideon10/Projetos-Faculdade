@@ -1,0 +1,40 @@
+
+read r9
+read r2
+read r3
+
+blt r2,r9,1
+beq r3,r2,23
+
+write r9
+store r9,1
+div r9,r2,r9
+write r9
+load r9,1
+write r9
+
+mul r8,r9,10
+write r8
+
+read r5
+bne r5,r8,14
+
+push r2
+push r3
+push r5
+pop r4
+
+write r4
+jump 23
+
+write r4
+read r6
+read r7
+
+and r4,r6,r7
+write r4
+or r4,r6,r7
+write r4
+not r4,r7
+write r4
+

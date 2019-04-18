@@ -1,0 +1,5 @@
+leia (y);
+escreva (y);
+z= x+y;
+escreva (z);
+escreva ( ( (z^3-9)/(-8+7)*(z-x) ) ^6 * ((3+5-1)/2)%4 );
