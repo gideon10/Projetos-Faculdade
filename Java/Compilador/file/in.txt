@@ -1,0 +1,9 @@
+x= 10;
+escreva x;
+leia y;
+y= y + x;
+escreva y;
+leia k;
+escreva (y+x-10^((k+2)/4));
+leia value;
+escreva ((k+100^(1+1))*(value/5)*((x+x-7)%163));
